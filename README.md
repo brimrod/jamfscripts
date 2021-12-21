@@ -1,0 +1,2 @@
+# jamfscripts
+jamf mangement stuff
