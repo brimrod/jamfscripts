@@ -1,5 +1,5 @@
 #!/bin/sh
-
+# thanks to redditor temperatechicken
 USER="$(stat -f%Su /dev/console)"
 
 SERVER=$4
