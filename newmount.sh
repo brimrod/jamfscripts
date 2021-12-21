@@ -7,7 +7,7 @@ SHARE=$5
 PROTOCOL=smb
 STRING='"'$PROTOCOL://$SERVER/$SHARE'"' 
 
-sleep 10s
+
 
 sudo -u $USER
 
